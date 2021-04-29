@@ -5,7 +5,7 @@ import Posts from './components/Posts/Posts';
 
 function App() {
   return (
-    <div> 
+    <div>
       <Header />
       <Posts />
     </div>
